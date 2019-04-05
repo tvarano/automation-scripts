@@ -1,6 +1,6 @@
-#automation
 
-A repository containing miscellaneous scripts to make some tasks easier.
+# A repo to make things easier
+Simple scripts to automate some functions
 
 Table of Contents: 
 - Export.command
